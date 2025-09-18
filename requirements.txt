@@ -1,0 +1,10 @@
+# Core deep learning
+torch==2.4.1+cu124
+torchvision==0.19.1+cu124
+torchaudio==2.4.1+cu124
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+# Other deps
+numpy
+matplotlib
+tqdm
